@@ -1,6 +1,7 @@
 # The_Matrix
 Use vibe coding to build the digital rain in The Matrix
 
+reference: https://github.com/hylarucoder/codebench/blob/master/T002-matrix/PROMPT-golang.md?plain=1
 
 ## Learn:
 go channel
