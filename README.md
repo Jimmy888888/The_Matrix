@@ -1,5 +1,8 @@
 # The_Matrix
-Use vibe coding to build the digital rain in The Matrix
+Use vibe coding to build the digital rain in The Matrix, the picture below is my CLI view
+
+<img width="1439" height="863" alt="截圖 2025-08-06 晚上9 49 05" src="https://github.com/user-attachments/assets/2cd1267f-c0c8-4da7-9f92-5ec47d4d114c" />
+
 
 reference: https://github.com/hylarucoder/codebench/blob/master/T002-matrix/PROMPT-golang.md?plain=1
 
